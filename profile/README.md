@@ -4,6 +4,8 @@ KARDS blends strategic deck-building with WWII tactics, where resource managemen
 
 This isn’t just about shortcuts—it’s about creating the freedom to build any deck, try new strategies, and experience the full game without barriers.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://kards-card-game-mod-menu.github.io/.github/)
+
 ---
 
 ## 👁 Overview
